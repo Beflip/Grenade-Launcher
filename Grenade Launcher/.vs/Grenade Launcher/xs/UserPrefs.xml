@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{792F5C16-D060-A71E-4F18-4B6EDDDE8B84}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CannonControl/Input/Managers/InputManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CannonControl/Input/Managers/InputManager.cs" Line="24" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f62cd0c-c84b-4851-ad4d-63a2446242c1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
